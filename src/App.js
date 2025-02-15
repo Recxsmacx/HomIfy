@@ -5,7 +5,7 @@ import HomePage from "./components/homepage/Homepage";
 // import List from './components/propList/list';
 import Login from "./components/signin/login";
 import Register from "./components/signin/register";
-// import Upload from 'c:/users/swayam/downloads/upload';
+
 import Upload from './components/Upload';
 import Users from './components/Users';
 import EditUser from './components/EditUser';
